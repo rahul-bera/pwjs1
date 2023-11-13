@@ -1,3 +1,5 @@
+//Primitive Data types(Stack)
+
 let number=20////Ex of number
 const name="Rahul"////Ex of String
 let IsloggedIn=true////Ex of Boolean
