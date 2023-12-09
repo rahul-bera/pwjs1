@@ -29,7 +29,7 @@ falsy---->>
 NaN
 undefined
 null
-        except these all values are truthy values
+        except these all values are truthy values-
 */
 
 //if user provides email,passwords,then allow log in,else ask for it
@@ -62,6 +62,10 @@ const githubIntoken=""
 // }else{
 //     console.log("Please log in to your account");
 // }
+
+
+// Example of Ternary Operator-->
+
 const p=googleIntoken|| githubIntoken ? "Welcome to apps" : "Please log in to your account"
 console.log(p);
 
